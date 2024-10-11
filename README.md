@@ -17,10 +17,6 @@
 
 - ⚡ Fun fact **Watch Stephen Chow film**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ssjblue197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ssjblue197" height="30" width="40" /></a>
@@ -33,8 +29,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ssjblue1979"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ssjblue1979" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssjblue197&show_icons=true&locale=en&layout=compact" alt="ssjblue197" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssjblue197&show_icons=true&locale=en" alt="ssjblue197" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssjblue197&" alt="ssjblue197" /></p>
